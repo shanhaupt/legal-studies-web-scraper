@@ -354,7 +354,7 @@ if __name__ == "__main__":
     WebsiteToParseForURLS = "https://drugpolicy.org/press-release?page="
 
     # Total Number of pages to parse
-    numPagesToParse = 2
+    numPagesToParse = 258
 
     # Define The path to the states file
     statesFilePath = "./src/states.txt"
